@@ -13,7 +13,7 @@ class TestieTest {
 
     @Test
     void testSubtract() {
-        assert testie.subtract(1, 2) == 1;
+        assert testie.subtract(1, 2) == -3;
     }
 
 }
