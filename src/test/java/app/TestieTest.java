@@ -1,9 +1,8 @@
 package app;
 
-import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-class MainTestie {
+class TestieTest {
 
     Testie testie = new Testie();
 
